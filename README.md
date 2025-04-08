@@ -1,1 +1,0 @@
-# tablespot-frontend
